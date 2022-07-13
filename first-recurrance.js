@@ -1,3 +1,5 @@
+// Here we are going to use Hashmap.
+
 function firstRecurrance(input){
 let map = {};
 for(let i = 0; i < input.length; i++) {
