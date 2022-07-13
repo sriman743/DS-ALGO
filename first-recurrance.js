@@ -1,4 +1,4 @@
-// Here we are going to use Hashmap.
+// Here we are going to use Hashtables.
 
 function firstRecurrance(input){
 let map = {};
